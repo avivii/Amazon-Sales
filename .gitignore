@@ -1,0 +1,18 @@
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# SQLite Databases (Too heavy / local only)
+*.db
+*.sqlite
+*.sqlite3
+
+# Tableau outputs / CSV data generated locally
+tableau_outputs/
+*.csv
+
+# VS Code settings
+.vscode/
