@@ -6,12 +6,6 @@
 
 ---
 
-## 🔗 Live Interactive Dashboard
-👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aviv.mizrachi/viz/AmazonSalesDashboard_17913980936280/Dashboard)**
-
-<img width="1819" height="1223" alt="image" src="https://github.com/user-attachments/assets/8e779c2d-8313-45e4-b708-13d9a6b3931f" />
-
-
 ## 💡 Motivation & Background
 As a Full-Stack developer, I bring extensive hands-on experience in 
 software engineering, database architecture, and advanced SQL. 
@@ -28,5 +22,9 @@ I have a strong drive for continuous learning across the data landscape,
 and I aim to keep growing at the intersection of software engineering, 
 analytics, and business decision-making.
 
+## 🔗 Live Interactive Dashboard
+👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aviv.mizrachi/viz/AmazonSalesDashboard_17913980936280/Dashboard)**
+
+<img width="1819" height="1223" alt="image" src="https://github.com/user-attachments/assets/8e779c2d-8313-45e4-b708-13d9a6b3931f" />
 ---
 
