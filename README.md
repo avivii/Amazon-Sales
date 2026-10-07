@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Live Interactive Dashboard
-👉 **[View the Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/aviv.mizrachi/viz/AmazonSalesDashboard_17913980936280/Dashboard?publish=yes))**
+👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aviv.mizrachi/viz/AmazonSalesDashboard_17913980936280/Dashboard)**
 
 <img width="1819" height="1223" alt="image" src="https://github.com/user-attachments/assets/8e779c2d-8313-45e4-b708-13d9a6b3931f" />
 
